@@ -1,0 +1,17 @@
+.active {
+  color: aqua;
+}
+
+.errorImg {
+  background-color: aqua;
+}
+
+.errorImg>img {
+  height: 100%;
+  width: 100%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
